@@ -3,7 +3,7 @@
 Proyecto de análisis de datos para evaluar el comportamiento de los clientes de **ConnectaTel**, una empresa de telecomunicaciones en Latinoamérica. El análisis cubre datos registrados hasta el año **2024**.
 
 ---
-
+ 
 ## 🗂️ Estructura del proyecto
 
 ```
