@@ -140,7 +140,10 @@ Estas métricas se combinaron con `users_latam.csv` en un dataframe llamado `use
 
 ## ▶️ Cómo ejecutar
 
-1. Clona el repositorio
-2. Coloca los archivos `.csv` en la carpeta `/datasets/`
-3. Abre el notebook `S7_Version-Estudiante-Project-ConnectaTel.ipynb`
-4. Ejecuta las celdas en orden
+
+1. Instala las dependencias:
+   \`\`\`bash
+   pip install -r requirements.txt
+   \`\`\`
+2. Abre `S7 Version-Estudiante-Project-ConnectaTel (1).ipynb` con Jupyter Notebook o VS Code.
+3. Los datasets (`plans.csv`, `users_latam.csv`, `usage.csv`) ya están incluidos en el repo, no requieren descarga externa.
