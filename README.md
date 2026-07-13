@@ -142,8 +142,9 @@ Estas métricas se combinaron con `users_latam.csv` en un dataframe llamado `use
 
 
 1. Instala las dependencias:
-   \`\`\`bash
+
+```bash
    pip install -r requirements.txt
-   \`\`\`
+```
 2. Abre `S7 Version-Estudiante-Project-ConnectaTel (1).ipynb` con Jupyter Notebook o VS Code.
 3. Los datasets (`plans.csv`, `users_latam.csv`, `usage.csv`) ya están incluidos en el repo, no requieren descarga externa.
